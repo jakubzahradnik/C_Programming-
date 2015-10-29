@@ -1,1 +1,1 @@
-# Liczba_trojkatna
+Programy KursC UWr
