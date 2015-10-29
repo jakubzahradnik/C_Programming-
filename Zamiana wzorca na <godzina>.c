@@ -6,12 +6,7 @@
 int main()
 {
     int n;
-    while (getchar()!=EOF)
-    {
-        ++n;
-    }
-    char na= (int)n;
-    char *tablica = new char[n];
+    int tablica[5000];
     int i=0;
     while( scanf("%c", &tablica[i]) == 1 )
     {
